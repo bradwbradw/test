@@ -1,0 +1,22 @@
+{
+  "name": "test-service",
+  "version": "1.0.0",
+  "description": "test service v 1.0.0",
+  "main": "testService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradwbradw/test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "brad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradwbradw/test/issues"
+  },
+  "homepage": "https://github.com/bradwbradw/test#readme"
+}
