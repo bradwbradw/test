@@ -1,0 +1,19 @@
+{
+  "name": "testService",
+  "main": "testService.js",
+  "homepage": "https://github.com/bradwbradw/test",
+  "authors": [
+    "brad winter <braddjwinter@gmail.com>"
+  ],
+  "description": "testing including a service from github",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
