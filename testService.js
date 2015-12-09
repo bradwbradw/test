@@ -1,4 +1,4 @@
-angular.module('brad.testService', [])
+angular.module('brad', [])
   .service('testService', function(){
 
  var testService = {
