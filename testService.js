@@ -7,4 +7,4 @@ angular.module('brad', [])
  };
  
  return testService;
-}
+});
