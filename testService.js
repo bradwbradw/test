@@ -3,7 +3,7 @@ angular.module('brad', [])
 
  var testService = {
  
- thing:'testThing'
+ thing:'testThing version 1.0.3'
  };
  
  return testService;
